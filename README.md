@@ -1,3 +1,0 @@
-# argo-temp
-
-argo# ArgoCD
