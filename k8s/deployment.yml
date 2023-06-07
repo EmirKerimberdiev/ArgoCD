@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx-app
-          image: kemir/myapp:v1
+          image: kemir/myapp:v2
           ports:
             - containerPort: 8080
